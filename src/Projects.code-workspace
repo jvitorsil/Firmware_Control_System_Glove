@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "ESPNow_Connection",
+			"path": ".."
+		},
+		{
+			"name": "ESPNow_Recivier",
+			"path": "../../ESPNow_Recivier"
+		}
+	],
+	"settings": {}
+}
